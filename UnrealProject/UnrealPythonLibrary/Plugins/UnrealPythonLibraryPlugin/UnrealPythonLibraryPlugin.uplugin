@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Unreal Python Library Plugin",
+	"Description": "A Pipeline Oriented Function Library",
+	"Category": "Scripting",
+	"CreatedBy": "Alex Quevillon",
+	"CreatedByURL": "https://www.youtube.com/AlexQuevillonEn",
+	"DocsURL": "https://www.youtube.com/AlexQuevillonEn",
+	"MarketplaceURL": "https://github.com/AlexQuevillon/UnrealPythonLibrary",
+	"SupportURL": "https://www.youtube.com/AlexQuevillonEn",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealPythonLibraryPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
