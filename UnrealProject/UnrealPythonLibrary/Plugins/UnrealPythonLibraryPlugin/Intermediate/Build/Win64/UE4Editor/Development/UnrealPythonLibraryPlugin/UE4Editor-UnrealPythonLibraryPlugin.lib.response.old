@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealPythonLibraryPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4\SourceRepo\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\Alex\Desktop\UnrealPythonLibrary2\Plugins\UnrealPythonLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealPythonLibraryPlugin\Module.UnrealPythonLibraryPlugin.cpp.obj"
+"C:\Users\Alex\Desktop\UnrealPythonLibrary2\Plugins\UnrealPythonLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealPythonLibraryPlugin\Module.UnrealPythonLibraryPlugin.gen.cpp.obj"
+"F:\UE4\SourceRepo\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\Alex\Desktop\UnrealPythonLibrary2\Plugins\UnrealPythonLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealPythonLibraryPlugin\UE4Editor-UnrealPythonLibraryPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealPythonLibraryPlugin
