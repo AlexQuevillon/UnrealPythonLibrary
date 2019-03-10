@@ -19,11 +19,5 @@
 			"Type": "Runtime",
 			"LoadingPhase": "PreLoadingScreen"
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "PythonScriptPlugin",
-			"Enabled": true
-		}
 	]
 }

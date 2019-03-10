@@ -3,20 +3,17 @@
 	"EngineAssociation": "{5B95D221-408A-62EF-5456-17A670F44F86}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "UnrealPythonLibrary",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
 		{
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		},
 		{
-			"Name": "PythonScriptPlugin",
+			"Name": "ScriptPlugin",
 			"Enabled": true
 		},
 		{
